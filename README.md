@@ -1,13 +1,13 @@
-Hugo Rodrigues Amadeu 422631
+<span style="font-size: 15px;">Hugo Rodrigues Amadeu 422631</span>
 
-** 1. O que é marca? Como funciona o branding?**
+**1. O que é marca? Como funciona o branding?**
 
 Marca é a representação simbólica de uma empresa, é algo que
 permite com que ela e seus produtos sejam identificados de imediato
 pelo seu público em geral. Enquanto o branding é esse processo de
 associação entre produto, serviço e marca
 
-** 2. O que é brand equity? **
+**2. O que é brand equity?**
 
 O brand equity é o valor agregado atribuído a bens e serviços
 que pode refletir no modo como os consumidores pensam, sentem e
