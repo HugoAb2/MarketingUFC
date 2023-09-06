@@ -1,6 +1,6 @@
 Hugo Rodrigues Amadeu 422631
 
-** 1. O que é marca? Como funciona o branding? **
+** 1. O que é marca? Como funciona o branding?**
 
 Marca é a representação simbólica de uma empresa, é algo que
 permite com que ela e seus produtos sejam identificados de imediato
